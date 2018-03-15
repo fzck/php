@@ -45,9 +45,9 @@
   font-weight:bold;
 }
 
-#signup_btn{
+#back{
   margin-top:10px;
-  background-color:#3498db;
+  background-color:#e74c3c;
   padding: 5px;
   color:white;
   width:30%;
@@ -67,3 +67,17 @@
   font-weight:bold;
   
 }
+
+#logout_btn{
+
+margin-top:10px;
+  background-color:#c0302b;
+  padding: 5px;
+  color:white;
+  width:100%;
+  tex-align:center;
+  font-size:180x;
+  font-weight:bold;
+
+}
+
